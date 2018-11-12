@@ -4,7 +4,7 @@ A Django 2.0 project to emulate the Product Hunt webapp[https://www.producthunt.
 # Objective
 This is mostly a study project. I followed a tutorial provided by Nick Walter [https://learn.zappycode.com/]
 
-##Get the project running! 🐎🐎🐎
+## Get the project running! 🐎🐎🐎
 
 - To get it running, first create a virtual environment. (In case you haven't installed it yet, run `pip install virtualenv.`)
 
@@ -17,6 +17,6 @@ This is mostly a study project. I followed a tutorial provided by Nick Walter [h
 
 - PS: if you want to create a superuser to access the admin panel, run `django-admin createsuperuser`
 
-##More on Django
+## More on Django
 
 More on Django documentation can be found at [https://docs.djangoproject.com/en/2.1/]
