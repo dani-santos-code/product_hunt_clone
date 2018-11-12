@@ -8,7 +8,7 @@ This is mostly a study project. I followed a tutorial provided by Nick Walter [h
 
 - To get it running, first create a virtual environment. (In case you haven't installed it yet, run `pip install virtualenv.`)
 
-- Then, activate your environment by running `<name of your environment>/bin/activate`  (Mac)
+- Then, activate your environment by running `source <name of your environment>/bin/activate`  (Mac)
 
 - Once in your environment, install the following dependencies:
 `pip install psycopg2`, `pip install pillow`, `pip install django`
